@@ -2,11 +2,11 @@
     "name": "mirasvit/module-test",
     "description": "Search Spell Correction",
     "require": {
-        "magento/framework": "101.0.*",
+        "magento/framework": "100.1.*",
         "mirasvit/module-core": "^1.2"
     },
     "type": "magento2-module",
-    "version": "2.1.1",
+    "version": "3.0.0",
     "license": [
       "proprietary"
     ],
